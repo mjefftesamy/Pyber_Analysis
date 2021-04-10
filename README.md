@@ -3,7 +3,7 @@
 The purpose of the analysis is to help Pyber, to improve access to right sharing services and determine affordability for neighborhood with lack of transportation services. we will try to analyze the relationship between the city and the variety of drivers and riders and the percentage of total fares of drivers and riders. 
 
 # Results
-our studies shoe the different grap
+our studies show the different gap
 ![Challenge_fare_summary](https://user-images.githubusercontent.com/63277310/114259032-081b8780-9999-11eb-8626-5796e907dc02.png)
 
 Urban cities have the highest percentages of Total Rides which is 68%, their Total Fares is 63%  and Total Drivers is 81%. they also have the lowest average per fare and average per driver amount.
